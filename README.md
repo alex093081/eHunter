@@ -1,7 +1,7 @@
 程式白癡
 只是用AI優化了一點使用體驗 
 切換頁面比例自動回到原本觀看的頁數
-加了紳士漫畫
+支持紳士漫畫
 
 Made some usability improvements:
 When switching page zoom levels, it now automatically returns to the page you were viewing.
