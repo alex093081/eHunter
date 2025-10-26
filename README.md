@@ -1,7 +1,10 @@
 程式白癡
-只是用AI優化了一點使用體驗 
+
+只是用AI優化了一點使用體驗
+
 切換頁面比例自動回到原本觀看的頁數
-支持紳士漫畫
+
+wnacg 版支持紳士漫畫，nhentai ehentai 紳士漫畫 的喜好設定獨立分開
 
 Made some usability improvements:
 When switching page zoom levels, it now automatically returns to the page you were viewing.
