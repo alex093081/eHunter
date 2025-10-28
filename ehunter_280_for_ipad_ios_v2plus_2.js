@@ -1,8 +1,8 @@
 // ==UserScript==
 // @name         eHunter++
 // @namespace    http://tampermonkey.net/
-// @version      2.8.0_3
-// @description  This extension provides a scroll mode and book mode to e-hentai/exhentai/nhentai, for the best reading experince!  此擴展為e-hentai/exhentai/nhentai提供一個滾動模式和書本模式, 提供良好的閱讀體驗.
+// @version      2.8.0_2
+// @description  This extension provides a scroll mode and book mode to e-hentai/exhentai/nhentai, for the best reading experince!  此擴展為e-hentai/exhentai/nhentai提供一個滾動模式和書本模式, 提供良好的閱讀體驗. wnacg_防止重複下載_獨立設定檔_繁體.js
 // @supportURL   https://github.com/hanFengSan/eHunter/issues
 // @author       Alex Chen
 // @match        https://exhentai.org/*
@@ -23190,4 +23190,5 @@
             (new WnacgLauncher).init();
             break;
     }
+
 }]);
