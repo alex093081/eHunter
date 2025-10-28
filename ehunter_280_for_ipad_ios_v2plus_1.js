@@ -2,7 +2,7 @@
 // @name         eHunter+
 // @namespace    http://tampermonkey.net/
 // @version      2.8.0_1
-// @description  This extension provides a scroll mode and book mode to e-hentai/exhentai/nhentai, for the best reading experince!  此扩展为e-hentai/exhentai/nhentai提供一个滚动模式和书本模式, 提供良好的阅读体验.
+// @description  This extension provides a scroll mode and book mode to e-hentai/exhentai/nhentai, for the best reading experince!  此扩展为e-hentai/exhentai/nhentai提供一个滚动模式和书本模式, 提供良好的阅读体验. 切換頁面比例自動回到原本觀看的頁數
 // @supportURL   https://github.com/hanFengSan/eHunter/issues
 // @author       Alex Chen
 // @match        https://exhentai.org/*
